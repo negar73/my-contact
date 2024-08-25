@@ -1,0 +1,6 @@
+cd server
+npm init --y
+npm i json-server
+
+داخل package.json -> scripts
+"start": "json-server --watch db.json -p 8000"

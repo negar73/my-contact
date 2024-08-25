@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "id": "b33a",
+      "fullname": "milad amiri",
+      "mobile": "09013746883",
+      "email": "miladamiri87@gmail.com",
+      "job": "programmer",
+      "group": "1",
+      "photo": "wwefqewfwege"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوستان"
+    },
+    {
+      "id": "3",
+      "name": "آشنایان"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "فامیل"
+    }
+  ]
+}
